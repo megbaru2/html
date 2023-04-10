@@ -1,0 +1,67 @@
+.bm{
+    height: 30%;
+background-color: fuchsia;
+color:white;
+}
+H4{
+  background-color:fuchsia;
+  text-align: center;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+body{background-color: aliceblue ;
+border: 2;
+background-image: url(new.jpg);
+background-size: cover;
+}
+#first{
+    background-color:greenyellow;
+     width: 100%;
+     height: 600px;
+}
+a:link{color:white;
+
+}
+a:visited {
+    color:red;
+  }
+  a:hover {
+    color:rgb(119, 0, 255);
+  }
+  a:active {
+    color:black;
+  }
+
+#second{
+    background-color:lime ; 
+    width: 50%; 
+    height: 500px; float:left;
+}
+#third{
+    background-color:aqua;
+     width:50%; 
+     height: 500px; 
+     float:right;
+}
+.m1{
+    background-image:url(new.jpg) ;
+}
+p{
+    float: right; 
+    height: 10%;
+  
+}
+
+
+
+#home{
+  background-color: fuchsia;  
+  font-family: 'Courier New', Courier, monospace;
+
+}
+#ft{
+   background-color: aqua;
+   text-decoration: dotted;
+}
